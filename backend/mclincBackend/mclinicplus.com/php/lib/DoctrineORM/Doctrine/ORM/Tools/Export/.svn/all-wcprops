@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Tools/Export
+END
+ClassMetadataExporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Tools/Export/ClassMetadataExporter.php
+END
+ExportException.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Tools/Export/ExportException.php
+END

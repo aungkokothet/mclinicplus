@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Mime/Headers
+END
+UnstructuredHeaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Mime/Headers/UnstructuredHeaderTest.php
+END
+IdentificationHeaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Mime/Headers/IdentificationHeaderTest.php
+END
+MailboxHeaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Mime/Headers/MailboxHeaderTest.php
+END
+PathHeaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Mime/Headers/PathHeaderTest.php
+END
+ParameterizedHeaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Mime/Headers/ParameterizedHeaderTest.php
+END
+DateHeaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Mime/Headers/DateHeaderTest.php
+END

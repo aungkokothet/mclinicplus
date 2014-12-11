@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations
+END
+AnnotationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations/AnnotationException.php
+END
+CachedReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations/CachedReader.php
+END
+Annotation.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations/Annotation.php
+END
+AnnotationReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations/AnnotationReader.php
+END
+DocParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations/DocParser.php
+END
+Reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations/Reader.php
+END
+IndexedReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations/IndexedReader.php
+END
+AnnotationRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations/AnnotationRegistry.php
+END
+PhpParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations/PhpParser.php
+END
+DocLexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations/DocLexer.php
+END
+FileCacheReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations/FileCacheReader.php
+END
+SimpleAnnotationReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Annotations/SimpleAnnotationReader.php
+END

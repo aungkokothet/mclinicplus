@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/Sweety/Runner
+END
+AbstractTestRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/Sweety/Runner/AbstractTestRunner.php
+END
+HtmlRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/Sweety/Runner/HtmlRunner.php
+END
+CliRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/Sweety/Runner/CliRunner.php
+END

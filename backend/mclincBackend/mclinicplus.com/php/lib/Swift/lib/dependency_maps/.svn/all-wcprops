@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/dependency_maps
+END
+cache_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/dependency_maps/cache_deps.php
+END
+message_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/dependency_maps/message_deps.php
+END
+mime_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/dependency_maps/mime_deps.php
+END
+transport_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/dependency_maps/transport_deps.php
+END

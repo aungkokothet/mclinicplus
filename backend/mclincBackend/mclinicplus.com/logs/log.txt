@@ -1,0 +1,17 @@
+2014-11-11 16:45:38 - ERROR --> SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mclinicplus.company_info' doesn't exist 
+2014-11-11 17:16:33 - ERROR --> [Semantical Error] line 0, col 19 near 'Clinic clini': Error: Class 'Clinic' is not defined. 
+2014-11-11 17:59:45 - ERROR --> Unknown column type int requested. 
+2014-11-11 18:08:09 - ERROR --> Unknown column type double requested. 
+2014-11-12 9:21:16 - ERROR --> [Syntax Error] line 0, col 63: Error: Expected =, <, <=, <>, >, >=, !=, got 'LIKE:cID' 
+2014-11-12 9:21:59 - ERROR --> [Syntax Error] line 0, col 63: Error: Expected =, <, <=, <>, >, >=, !=, got 'LIKE:cID' 
+2014-11-12 9:30:44 - ERROR --> Invalid parameter number: number of bound variables does not match number of tokens 
+2014-11-12 13:50:24 - ERROR --> [Syntax Error] line 0, col -1: Error: Expected Literal, got end of string. 
+2014-11-12 13:51:13 - ERROR --> [Syntax Error] line 0, col -1: Error: Expected Literal, got end of string. 
+2014-11-12 13:54:37 - ERROR --> [Syntax Error] line 0, col -1: Error: Expected Literal, got end of string. 
+2014-11-12 14:01:12 - ERROR --> [Syntax Error] line 0, col -1: Error: Expected Literal, got end of string. 
+2014-11-12 14:07:58 - ERROR --> [Syntax Error] line 0, col 60: Error: Expected Literal, got '"' 
+2014-11-12 14:08:52 - ERROR --> [Syntax Error] line 0, col -1: Error: Expected Literal, got end of string. 
+2014-11-12 14:12:33 - ERROR --> SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'callCount' cannot be null 
+2014-11-12 14:15:09 - ERROR --> SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'callCount' cannot be null 
+2014-11-12 14:24:13 - ERROR --> SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY' 
+2014-12-11 14:05:50 - INFO  --> The identifier email is missing for a query of User 

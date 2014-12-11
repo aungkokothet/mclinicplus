@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/KeyCache
+END
+DiskKeyCacheAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/KeyCache/DiskKeyCacheAcceptanceTest.php
+END
+ArrayKeyCacheAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/KeyCache/ArrayKeyCacheAcceptanceTest.php
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Persisters
+END
+JoinedSubclassPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Persisters/JoinedSubclassPersister.php
+END
+UnionSubclassPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Persisters/UnionSubclassPersister.php
+END
+OneToManyPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Persisters/OneToManyPersister.php
+END
+SingleTablePersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Persisters/SingleTablePersister.php
+END
+AbstractEntityInheritancePersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Persisters/AbstractEntityInheritancePersister.php
+END
+ManyToManyPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Persisters/ManyToManyPersister.php
+END
+BasicEntityPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Persisters/BasicEntityPersister.php
+END
+AbstractCollectionPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Persisters/AbstractCollectionPersister.php
+END
+ElementCollectionPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/ORM/Persisters/ElementCollectionPersister.php
+END

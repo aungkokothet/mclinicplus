@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Mailer
+END
+ArrayRecipientIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Mailer/ArrayRecipientIterator.php
+END
+RecipientIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Mailer/RecipientIterator.php
+END

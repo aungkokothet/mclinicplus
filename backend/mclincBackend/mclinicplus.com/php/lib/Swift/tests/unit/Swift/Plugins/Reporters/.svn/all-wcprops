@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Plugins/Reporters
+END
+HtmlReporterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Plugins/Reporters/HtmlReporterTest.php
+END
+HitReporterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Plugins/Reporters/HitReporterTest.php
+END

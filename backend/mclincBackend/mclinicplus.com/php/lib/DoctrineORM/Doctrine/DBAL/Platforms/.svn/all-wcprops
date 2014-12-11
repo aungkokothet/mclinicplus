@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Platforms
+END
+OraclePlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Platforms/OraclePlatform.php
+END
+MySqlPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Platforms/MySqlPlatform.php
+END
+DB2Platform.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Platforms/DB2Platform.php
+END
+MsSqlPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Platforms/MsSqlPlatform.php
+END
+SqlitePlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Platforms/SqlitePlatform.php
+END
+AbstractPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Platforms/AbstractPlatform.php
+END
+PostgreSqlPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Platforms/PostgreSqlPlatform.php
+END

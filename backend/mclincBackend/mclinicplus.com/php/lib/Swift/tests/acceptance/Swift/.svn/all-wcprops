@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift
+END
+MessageAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/MessageAcceptanceTest.php
+END
+EncodingAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/EncodingAcceptanceTest.php
+END
+AttachmentAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/AttachmentAcceptanceTest.php
+END
+EmbeddedFileAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/EmbeddedFileAcceptanceTest.php
+END
+MimePartAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/MimePartAcceptanceTest.php
+END
+DependencyContainerAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/DependencyContainerAcceptanceTest.php
+END

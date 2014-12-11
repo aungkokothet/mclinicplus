@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Persistence
+END
+Proxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Persistence/Proxy.php
+END
+ObjectManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Persistence/ObjectManager.php
+END
+ObjectManagerAware.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Persistence/ObjectManagerAware.php
+END
+ManagerRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Persistence/ManagerRegistry.php
+END
+ObjectRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Persistence/ObjectRepository.php
+END
+AbstractManagerRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Persistence/AbstractManagerRegistry.php
+END
+PersistentObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Persistence/PersistentObject.php
+END
+ConnectionRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/Common/Persistence/ConnectionRegistry.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Driver/OCI8
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Driver/OCI8/Driver.php
+END
+OCI8Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Driver/OCI8/OCI8Exception.php
+END
+OCI8Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Driver/OCI8/OCI8Connection.php
+END
+OCI8Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Driver/OCI8/OCI8Statement.php
+END

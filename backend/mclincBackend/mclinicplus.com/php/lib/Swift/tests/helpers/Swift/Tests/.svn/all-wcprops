@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/helpers/Swift/Tests
+END
+IdenticalBinaryExpectation.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/helpers/Swift/Tests/IdenticalBinaryExpectation.php
+END
+SwiftSmokeTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/helpers/Swift/Tests/SwiftSmokeTestCase.php
+END
+SwiftUnitTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/helpers/Swift/Tests/SwiftUnitTestCase.php
+END

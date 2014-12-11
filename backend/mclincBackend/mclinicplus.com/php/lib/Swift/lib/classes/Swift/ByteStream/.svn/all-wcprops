@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/ByteStream
+END
+AbstractFilterableInputStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/ByteStream/AbstractFilterableInputStream.php
+END
+ArrayByteStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/ByteStream/ArrayByteStream.php
+END
+FileByteStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/ByteStream/FileByteStream.php
+END

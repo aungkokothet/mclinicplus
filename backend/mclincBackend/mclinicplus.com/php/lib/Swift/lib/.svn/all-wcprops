@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib
+END
+mime_types.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/mime_types.php
+END
+swift_required.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/swift_required.php
+END
+swift_init.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/swift_init.php
+END
+preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/preferences.php
+END
+swift_required_pear.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/swift_required_pear.php
+END

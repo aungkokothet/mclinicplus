@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/smoke/Swift/Smoke
+END
+BasicSmokeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/smoke/Swift/Smoke/BasicSmokeTest.php
+END
+InternationalSmokeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/smoke/Swift/Smoke/InternationalSmokeTest.php
+END
+AttachmentSmokeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/smoke/Swift/Smoke/AttachmentSmokeTest.php
+END
+HtmlWithAttachmentSmokeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/smoke/Swift/Smoke/HtmlWithAttachmentSmokeTest.php
+END

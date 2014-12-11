@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Transport/StreamBuffer
+END
+SocketTimeoutTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Transport/StreamBuffer/SocketTimeoutTest.php
+END
+AbstractStreamBufferAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Transport/StreamBuffer/AbstractStreamBufferAcceptanceTest.php
+END
+BasicSocketAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Transport/StreamBuffer/BasicSocketAcceptanceTest.php
+END
+SslSocketAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Transport/StreamBuffer/SslSocketAcceptanceTest.php
+END
+TlsSocketAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Transport/StreamBuffer/TlsSocketAcceptanceTest.php
+END
+ProcessAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Transport/StreamBuffer/ProcessAcceptanceTest.php
+END

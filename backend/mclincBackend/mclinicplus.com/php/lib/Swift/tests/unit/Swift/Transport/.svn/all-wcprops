@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Transport
+END
+SendmailTransportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Transport/SendmailTransportTest.php
+END
+MailTransportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Transport/MailTransportTest.php
+END
+FailoverTransportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Transport/FailoverTransportTest.php
+END
+StreamBufferTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Transport/StreamBufferTest.php
+END
+EsmtpTransportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Transport/EsmtpTransportTest.php
+END
+LoadBalancedTransportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Transport/LoadBalancedTransportTest.php
+END
+AbstractSmtpEventSupportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Transport/AbstractSmtpEventSupportTest.php
+END
+AbstractSmtpTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Transport/AbstractSmtpTest.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/branches/Custom%20Directory/php/entities
+END
+IndustrialZone.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/branches/Custom%20Directory/php/entities/IndustrialZone.php
+END
+zone.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/branches/Custom%20Directory/php/entities/zone.php
+END
+SMECompany.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/branches/Custom%20Directory/php/entities/SMECompany.php
+END
+Tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/39/branches/Custom%20Directory/php/entities/Tags.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/branches/Custom%20Directory/php/entities/User.php
+END
+DirectoryTag.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/branches/Custom%20Directory/php/entities/DirectoryTag.php
+END
+NewsFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/branches/Custom%20Directory/php/entities/NewsFeed.php
+END
+DirectoryTag1.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/44/branches/Custom%20Directory/php/entities/DirectoryTag1.php
+END
+SMEUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/branches/Custom%20Directory/php/entities/SMEUser.php
+END
+UserDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/39/branches/Custom%20Directory/php/entities/UserDirectory.php
+END
+UserDirectory1.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/44/branches/Custom%20Directory/php/entities/UserDirectory1.php
+END

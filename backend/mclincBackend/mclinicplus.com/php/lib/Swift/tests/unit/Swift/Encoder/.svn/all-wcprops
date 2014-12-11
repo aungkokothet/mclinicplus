@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Encoder
+END
+QpEncoderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Encoder/QpEncoderTest.php
+END
+Rfc2231EncoderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Encoder/Rfc2231EncoderTest.php
+END
+Base64EncoderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Encoder/Base64EncoderTest.php
+END

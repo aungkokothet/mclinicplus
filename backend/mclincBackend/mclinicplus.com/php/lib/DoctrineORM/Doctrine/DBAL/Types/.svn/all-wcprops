@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types
+END
+DateTimeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/DateTimeType.php
+END
+IntegerType.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/IntegerType.php
+END
+DecimalType.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/DecimalType.php
+END
+TimeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/TimeType.php
+END
+ConversionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/ConversionException.php
+END
+VarDateTimeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/VarDateTimeType.php
+END
+FloatType.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/FloatType.php
+END
+StringType.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/StringType.php
+END
+ObjectType.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/ObjectType.php
+END
+DateTimeTzType.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/DateTimeTzType.php
+END
+BigIntType.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/BigIntType.php
+END
+DateType.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/DateType.php
+END
+BlobType.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/BlobType.php
+END
+ArrayType.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/ArrayType.php
+END
+BooleanType.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/BooleanType.php
+END
+Type.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/Type.php
+END
+SmallIntType.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/SmallIntType.php
+END
+TextType.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/DoctrineORM/Doctrine/DBAL/Types/TextType.php
+END

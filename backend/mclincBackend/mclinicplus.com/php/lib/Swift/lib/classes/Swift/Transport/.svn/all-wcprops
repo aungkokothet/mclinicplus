@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport
+END
+SendmailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/SendmailTransport.php
+END
+SpoolTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/SpoolTransport.php
+END
+SimpleMailInvoker.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/SimpleMailInvoker.php
+END
+MailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/MailTransport.php
+END
+MailInvoker.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/MailInvoker.php
+END
+IoBuffer.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/IoBuffer.php
+END
+SmtpAgent.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/SmtpAgent.php
+END
+AbstractSmtpTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+END
+FailoverTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/FailoverTransport.php
+END
+EsmtpTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/EsmtpTransport.php
+END
+StreamBuffer.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/StreamBuffer.php
+END
+LoadBalancedTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/LoadBalancedTransport.php
+END
+EsmtpHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/EsmtpHandler.php
+END
+NullTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/Transport/NullTransport.php
+END

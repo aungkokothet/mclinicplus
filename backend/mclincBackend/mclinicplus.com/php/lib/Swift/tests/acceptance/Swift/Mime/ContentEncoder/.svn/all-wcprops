@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Mime/ContentEncoder
+END
+QpContentEncoderAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Mime/ContentEncoder/QpContentEncoderAcceptanceTest.php
+END
+PlainContentEncoderAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Mime/ContentEncoder/PlainContentEncoderAcceptanceTest.php
+END
+Base64ContentEncoderAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Mime/ContentEncoder/Base64ContentEncoderAcceptanceTest.php
+END

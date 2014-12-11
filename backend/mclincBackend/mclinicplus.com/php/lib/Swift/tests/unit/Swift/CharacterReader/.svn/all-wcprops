@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/CharacterReader
+END
+Utf8ReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/CharacterReader/Utf8ReaderTest.php
+END
+GenericFixedWidthReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/CharacterReader/GenericFixedWidthReaderTest.php
+END
+UsAsciiReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/CharacterReader/UsAsciiReaderTest.php
+END

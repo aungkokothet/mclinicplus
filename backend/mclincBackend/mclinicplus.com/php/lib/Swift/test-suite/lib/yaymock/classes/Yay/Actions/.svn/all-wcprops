@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/yaymock/classes/Yay/Actions
+END
+CallbackAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/yaymock/classes/Yay/Actions/CallbackAction.php
+END
+ReturnValueAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/yaymock/classes/Yay/Actions/ReturnValueAction.php
+END
+ReturnReferenceAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/yaymock/classes/Yay/Actions/ReturnReferenceAction.php
+END
+ThrowAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/yaymock/classes/Yay/Actions/ThrowAction.php
+END

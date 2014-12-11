@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Mime/HeaderEncoder
+END
+QpHeaderEncoderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Mime/HeaderEncoder/QpHeaderEncoderTest.php
+END
+Base64HeaderEncoderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/unit/Swift/Mime/HeaderEncoder/Base64HeaderEncoderTest.php
+END

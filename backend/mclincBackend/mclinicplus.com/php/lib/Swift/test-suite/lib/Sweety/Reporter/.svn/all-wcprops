@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/Sweety/Reporter
+END
+CliReporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/Sweety/Reporter/CliReporter.php
+END
+HtmlTestCaseReporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/Sweety/Reporter/HtmlTestCaseReporter.php
+END
+CliTestCaseReporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/Sweety/Reporter/CliTestCaseReporter.php
+END
+HtmlReporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/test-suite/lib/Sweety/Reporter/HtmlReporter.php
+END

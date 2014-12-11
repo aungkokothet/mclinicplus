@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/StreamFilters
+END
+StringReplacementFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/StreamFilters/StringReplacementFilter.php
+END
+StringReplacementFilterFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/StreamFilters/StringReplacementFilterFactory.php
+END
+ByteArrayReplacementFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Mime
+END
+AttachmentAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Mime/AttachmentAcceptanceTest.php
+END
+EmbeddedFileAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Mime/EmbeddedFileAcceptanceTest.php
+END
+MimePartAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Mime/MimePartAcceptanceTest.php
+END
+SimpleMessageAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/acceptance/Swift/Mime/SimpleMessageAcceptanceTest.php
+END

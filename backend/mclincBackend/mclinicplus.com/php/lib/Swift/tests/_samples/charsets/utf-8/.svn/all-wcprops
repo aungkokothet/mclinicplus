@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/_samples/charsets/utf-8
+END
+one.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/_samples/charsets/utf-8/one.txt
+END
+three.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/_samples/charsets/utf-8/three.txt
+END
+two.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/branches/Custom%20Directory/php/lib/Swift/tests/_samples/charsets/utf-8/two.txt
+END
