@@ -60,7 +60,7 @@ public class ClinicJSONDAO implements ClinicDAO {
 //		    		 System.out.println("Schedule"+schedule.getDay()+schedule.getStartTime()+schedule.getEndTime());
 		    		 doc.addSchedule(schedule);
 		    	 }
-		    	clinic.addDoctor(doc.getName(), doc);
+		    	clinic.addDoctor(doc.getName()+doc.getSpecialization(), doc);
 		    	
 		    }
 //		    System.out.println(clinic.getName());schedule
