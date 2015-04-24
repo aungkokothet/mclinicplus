@@ -1,0 +1,1 @@
+With the vision to engage value for Myanmar Health Care Industry with our  skills and telnet in IT, Electronics and Business Development, our starting point is a simple directory app showing doctors and clinics. We will  gradually create an affordable ecosystem  for all the stake holders in health care industry.
